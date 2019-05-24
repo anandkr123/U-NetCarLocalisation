@@ -12,5 +12,4 @@ TRAINING AND VALIDATION LOSS(minimised upto 5.4% for training & 6.1% for Validat
 
 TEST RESULT (Localisation area is under the car, between front and rear tyres)
 ![test_result](https://user-images.githubusercontent.com/23450113/50496110-e1d2b780-0a2d-11e9-904d-85f5fc135cf9.png)
-
 ![test_image_result](https://user-images.githubusercontent.com/23450113/58354006-69531400-7e70-11e9-9398-4dd8e20ed7df.png)
