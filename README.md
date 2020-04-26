@@ -1,12 +1,15 @@
 # U-NetCarLocalisation
 
 EXAMPLE IMAGE 
+
 ![image_0010](https://user-images.githubusercontent.com/23450113/50496084-bbad1780-0a2d-11e9-8f06-57a6072028be.jpg)
 
-  MASKED FILE 
+MASKED FILE 
+  
 ![image_0010_masked](https://user-images.githubusercontent.com/23450113/50496087-bea80800-0a2d-11e9-8b12-ed94c2fd88c3.png)
 
-TRAINING AND VALIDATION LOSS(minimised upto 2.2% for training & 4.3% for Validation
+TRAINING AND VALIDATION LOSS (minimised upto 2.2% for TRAINING & 4.3% for VALIDATION SET
+
 ![val-loss_train-loss](https://user-images.githubusercontent.com/23450113/80147637-1ae45300-85b4-11ea-913e-3bb1eb5f8a19.png)
 
 TEST RESULT (Localisation area is under the car, between front and rear tyres)
