@@ -22,4 +22,6 @@ TRAINING AND VALIDATION LOSS (minimised upto 2.2% for TRAINING & 4.3% for VALIDA
 ![val-loss_train-loss](https://user-images.githubusercontent.com/23450113/80147637-1ae45300-85b4-11ea-913e-3bb1eb5f8a19.png)
 
 TEST RESULT (Localisation area is under the car, between front and rear tyres)
+
+Input image             Predicted RoI               Masked Image
 ![final](https://user-images.githubusercontent.com/23450113/80147519-e8d2f100-85b3-11ea-856d-81b81905a3e1.png)
